@@ -1,0 +1,5 @@
+1. alembic upgrade heads
+2. python seeder/main.py
+
+1. Parent A yang errornya false di cek di Parent B yang false ada yang true apa gk
+2. Child yang masih false di carikan waktu yang masih kosong dengan mutasi rate 0.05
